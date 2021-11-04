@@ -1,5 +1,7 @@
 # Lazy load image scroll
 
+<p>Vanilla JavaScript implementation for lazy load images</p>
+
 <img src="./img/screenshot.PNG">
 
 ## Technologies
