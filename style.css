@@ -26,6 +26,7 @@
   border-radius: 10px;
   padding: 1rem;
   max-height: 40rem;
+  scrollbar-width: none;
 }
 
 img {
@@ -38,5 +39,8 @@ img {
 }
 
 ::-webkit-scrollbar {
+  display: none;
+}
+::-moz-scrollbar {
   display: none;
 }
